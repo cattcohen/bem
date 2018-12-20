@@ -9,7 +9,7 @@ p {
 
 body {
 
-   background-image: url("./ritual.jpg");
+   background-image: url(./ritual.jpg);
    background-attachment: fixed;
    background-size: 50%
 }
