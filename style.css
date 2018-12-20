@@ -13,3 +13,11 @@ body {
    background-attachment: fixed;
    background-size: 50%;
 }
+
+html { 
+  background: url(/ritual.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
