@@ -9,12 +9,12 @@ p {
 
 body {
 
-   background-image: url("/ritual.jpg");
+   background-image: url("photos/ritual.jpg");
    background-attachment: fixed;
    background-size: 50%;
 }
 
-html { 
+body { 
   background: url(photos/ritual.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
