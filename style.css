@@ -1,13 +1,15 @@
-body {
-
-   background-image: url("ritual.jpg");
-   background-attachment: fixed;
-   background-size: 50%
-}
 
 p {
    color: ghostwhite;
    font-family: 'Major Mono Display', monospace;
    text-align: center;
    font-size: 60px;
+}
+
+
+body {
+
+   background-image: url("ritual.jpg");
+   background-attachment: fixed;
+   background-size: 50%
 }
